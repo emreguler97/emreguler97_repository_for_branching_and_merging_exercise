@@ -1,0 +1,1 @@
+print("emreguler97_repository_for_branching_and_merging_exercise repo has a new script and this is it.")
